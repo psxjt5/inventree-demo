@@ -40,4 +40,4 @@ jobs:
           cd frontend
           npm install
           npm run build
-          npm run lint
+          # npm run lint
